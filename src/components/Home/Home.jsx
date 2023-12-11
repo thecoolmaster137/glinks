@@ -8,19 +8,19 @@ export default function Home() {
       </div>
       <div className="select-div">
         <div>
-          <label>Any Category</label>
+          <label>Category</label>
           <select name="Category" className="form-select">
             <option>Any Category</option>
           </select>
         </div>
         <div>
-          <label>Any Country</label>
+          <label>Country</label>
           <select name="Country" className="form-select">
             <option>Any Country</option>
           </select>
         </div>
         <div>
-          <label>Any Language</label>
+          <label>Language</label>
           <select name="Language" className="form-select">
             <option>Any Language</option>
           </select>
